@@ -78,7 +78,7 @@ DEVICE_MANIFEST_FILE := device/samsung/msm8974-common/manifest.xml
 DEVICE_MATRIX_FILE := device/samsung/msm8974-common/compatibility_matrix.xml
 
 # SELinux
-include device/samsung/msm8974-common/sepolicy/sepolicy.mk
+#include device/samsung/msm8974-common/sepolicy/sepolicy.mk
 
 # Netd
 TARGET_NEEDS_NETD_DIRECT_CONNECT_RULE := true

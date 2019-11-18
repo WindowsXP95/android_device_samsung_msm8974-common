@@ -1,2 +1,5 @@
 # Memory optimizations
 ro.vendor.qti.sys.fw.bservice_enable=true
+#property to enable fingerprint
+#Note:exprimental 
+persist.qfp=false
